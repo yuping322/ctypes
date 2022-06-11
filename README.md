@@ -1,2 +1,1 @@
-# ctypes
-ctypes
+gcc -Wall -g -fPIC -shared -o libstruct.so.0 ctype_code.c
