@@ -1,7 +1,6 @@
 
 # -*- coding: utf-8 -*-
 from ctypes import *
-
 # 学生信息如下
 stu_info = [("class", "A"),
             ("grade", 90),
